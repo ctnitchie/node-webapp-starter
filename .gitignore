@@ -1,0 +1,6 @@
+dist
+node_modules
+.DS_Store
+www/scripts
+www/stylesheets/*.css*
+npm-debug.log
