@@ -11,3 +11,14 @@ A simple starting-point web web application incorporating
 - Webpack for building the client assets
 
 This is my own personal starting point, but might be useful to others.
+
+Use
+
+    npm start
+
+to run in 'watch' mode. Use
+
+    npm install
+    npm run serve
+
+to build and run from built artifacts.
